@@ -135,8 +135,8 @@ export default function Home() {
         <div className="hero-grain" />
         <div className="hero-copy">
           <p className="eyebrow hero-eyebrow"><span /> AKOSOMBO · GHANA</p>
-          <h1 id="hero-title" tabIndex={-1}>A softer<br/>pace of <em>life.</em></h1>
-          <p className="hero-sub">A lakeside sanctuary to breathe deeply, let go<br className="desktop"/> and find your way back to yourself.</p>
+          <h1 id="hero-title" tabIndex={-1}>Wellness spa<br/><em>in Akosombo.</em></h1>
+          <p className="hero-sub">A lakeside wellness experience in Akosombo, Ghana.</p>
           <a className="button button-light" href="#experience">Discover Namor <span>↓</span></a>
         </div>
         <div className="hero-note"><span className="note-line"/> REST · RECONNECT · RENEW</div>
@@ -146,7 +146,7 @@ export default function Home() {
       <div className="ticker"><div>MAKE ROOM FOR STILLNESS <span>✳</span> YOUR MOMENT, YOUR RITUAL <span>✳</span> AKOSOMBO, GHANA <span>✳</span> MAKE ROOM FOR STILLNESS <span>✳</span> YOUR MOMENT, YOUR RITUAL <span>✳</span></div></div>
       <section className="intro section" id="experience">
         <div className="intro-image image-wrap" data-reveal><img src="/images/lakeside-retreat.jpg" alt="A guest in a robe beside the tranquil waters of the Volta"/><span className="image-caption">A MOMENT BESIDE THE WATER</span></div>
-        <div className="intro-copy" data-reveal><p className="eyebrow"><span className="dot"/> THE NAMOR EXPERIENCE</p><h2>Where the lake<br/>sets the <em>rhythm.</em></h2><p className="body-copy">Tucked beside the water in Akosombo, Namor invites you to step outside the everyday. Let the lake, the quiet and thoughtful moments of care bring you back to a gentler pace.</p><p className="signature">Come as you are. Leave a little lighter.</p><a className="text-link" href={instagram} target="_blank" rel="noreferrer">Get in touch <span>↗</span></a></div>
+        <div className="intro-copy" data-reveal><p className="eyebrow"><span className="dot"/> THE NAMOR EXPERIENCE</p><h2>Where the lake<br/>sets the <em>rhythm.</em></h2><p className="body-copy">Namor Wellness Spa welcomes guests in Akosombo, Ghana, for a calm lakeside experience. Slow down, reconnect with your senses and savour thoughtful moments of care.</p><p className="signature">Come as you are. Leave a little lighter.</p><a className="text-link" href={instagram} target="_blank" rel="noreferrer">Get in touch <span>↗</span></a></div>
       </section>
       <section className="rituals section" id="rituals">
         <div className="section-head" data-reveal><div><p className="eyebrow"><span className="dot"/> A LITTLE TIME FOR YOU</p><h2>Make space for<br/><em>wellbeing.</em></h2></div><p className="section-intro">Every visit is an invitation to slow down. Settle into the stillness, reconnect with your senses and savour the details.</p></div>
